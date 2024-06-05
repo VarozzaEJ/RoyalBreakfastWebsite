@@ -1,0 +1,43 @@
+.building-bg-image {
+    background-image: url(https://images.unsplash.com/photo-1590518563786-901882bf6f82?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    min-height: 30dvh;
+    max-height: 200px;
+    background-size: cover;
+}
+
+
+.playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.grass-bg-image {
+    background-image: url(https://images.unsplash.com/photo-1605473248066-ce9d9270602e?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    min-height: 30dvh;
+    max-height: 200px;
+    background-size: cover;
+}
+
+.office-bg-image {
+    background-image: url(https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    min-height: 30dvh;
+    max-height: 00px;
+    background-size: cover;
+}
+
+.yellow-bg-image {
+    background-image: url(https://images.unsplash.com/photo-1614850715649-1d0106293bd1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    min-height: 30dvh;
+    max-height: 100px;
+    background-size: cover;
+}
+
+.text-shadow {
+    text-shadow: 1px 1px black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
